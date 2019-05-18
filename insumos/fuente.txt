@@ -1,0 +1,8 @@
+Producción y Petróleo
+https://www.argentina.gob.ar/energia/hidrocarburos/produccion-de-petroleo-y-gas
+Fecha acceso: 07/05/2019
+
+ACLARACIÓN
+El campo "Producción primaria de petróleo" no incluye el volumen de gasolina estabilizada ni el de condensado, 
+estos se pueden sumar aparte marcándolos en el campo "Concepto" de la tabla dinámica. Se rectificaron todos los 
+datos de producción de acuerdo al nuevo criterio desde Enero 2009 hasta la fecha
