@@ -3,4 +3,4 @@ Algo de información sobre producción de hidrocarburos en Argentina en el perio
 
 Fuente: https://www.argentina.gob.ar/energia/hidrocarburos/produccion-de-petroleo-y-gas
 
-En este repositorio están las tablas limpias para generar gráficos.
+En este repositorio, dentro de la carpeta "insumos", están las tablas limpias para generar gráficos. Además, está la notebook con el código para armar los gráficos usando https://plot.ly/.
